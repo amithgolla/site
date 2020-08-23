@@ -3,14 +3,22 @@ body {
   text-align: center;
 }
 h1 {
-  margin: 0;
   font-family: 'Sacramento', cursive;
-  font-size: 70px;
-  color: #3da4ab;
+  font-size: 90px;
+  color: #393e46;
+  position: absolute;
+  right:38%;
+  top:3%;
+  margin-top: 0;
+}
+h4{
+  font-family: 'Gloria Hallelujah', cursive;
+  position: absolute;
+  top:15%;
+  right:42%;
+  color: #596e79;
 }
 .top-container{
-  background-color: #fce8d5;
-  padding-top: 100px;
   position: relative;
 }
 .middle-container{
