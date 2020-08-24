@@ -24,15 +24,15 @@ body{
 .whatsapp{
   position: relative;
   bottom: 25px;
-  left: 380px;
+  left: 25%;
 }
 .instagram{
   position: relative;
   bottom: 25px;
-  left: 390px;
+  left: 25.5%;
 }
 .linkedin{
   position: relative;
   bottom: 25px;
-  left: 400px;
+  left: 26%;
 }
