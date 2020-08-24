@@ -38,10 +38,18 @@ body{
 }
 h1{
   font-family: 'Sacramento', cursive;
-  margin-top: 2%;
-  font-size: 100px;
+  font-size: 120px;
   position: absolute;
+  color: #3f3f44;
   top: 15%;
   left: 50%;
+  transform: translate(-50%, -50%);
+}
+.thanks{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  font-size: 25px;
+  color: #1b1b2f;
   transform: translate(-50%, -50%);
 }
