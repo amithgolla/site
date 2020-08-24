@@ -34,10 +34,14 @@ body{
 }
 .top-container{
   margin: 0;
+  position: relative;
 }
 h1{
   font-family: 'Sacramento', cursive;
-  font-size: 90px;
-  position: relative;
-  bottom: 1000px;
+  margin-top: 2%;
+  font-size: 100px;
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
