@@ -18,21 +18,21 @@ body{
   display: inline-block;
   position: relative;
   bottom: 30px;
-  left: 350px;
+  left: 22%;
   font-family: 'Satisfy', cursive;
 }
 .whatsapp{
   position: relative;
   bottom: 25px;
-  left: 25%;
+  left: 23%;
 }
 .instagram{
   position: relative;
   bottom: 25px;
-  left: 25.5%;
+  left: 23.5%;
 }
 .linkedin{
   position: relative;
   bottom: 25px;
-  left: 26%;
+  left: 24%;
 }
