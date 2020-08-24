@@ -47,9 +47,23 @@ h1{
 }
 .thanks{
   position: absolute;
-  top: 30%;
+  top: 32%;
   left: 50%;
   font-size: 25px;
   color: #1b1b2f;
   transform: translate(-50%, -50%);
+}
+.my-pic{
+  border-radius: 100%;
+  padding-top: 25px;
+
+}
+h2{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
+  color: #222831;
+}
+.me{
+  width: 600px;
+  margin: auto;
 }
