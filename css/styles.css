@@ -66,7 +66,7 @@ h2{
 }
 .me{
   font-family: 'Roboto', sans-serif;
-  width: 70%;
+  width: 80%;
   margin: auto;
   font-size: 120%;
 }
@@ -81,6 +81,6 @@ h2{
   margin: 5% auto;
   font-size: 120%;
   text-align: left;
-  width: 60%;
+  width: 70%;
   display: inline-block;
 }
