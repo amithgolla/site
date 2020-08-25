@@ -2,6 +2,12 @@ body{
   margin: 0;
   text-align: center;
 }
+hr{
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: thick;
+  color: #5eaaa8;
+}
 .top-bar{
   background-color: #f7f7f7;
   top: 0;
@@ -84,4 +90,25 @@ h2{
   width: 80%;
   display: inline-block;
   line-height: 2;
+}
+.me3{
+  font-family: 'Kalam', cursive;
+  text-align: right;
+  margin: 40px auto 0 auto;
+  width: 80%;
+  display: inline-block;
+}
+.cv{
+  float: right;
+  margin-left: 50px;;
+  text-align: right;
+}
+.cvinfo{
+  margin-top: 0;
+  margin-left: 10%;
+  font-size: 120%;
+  line-height: 2;
+  width: 40%;
+  text-align: right;
+  float: right;
 }
