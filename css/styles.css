@@ -1,6 +1,7 @@
 body{
   margin: 0;
   text-align: center;
+  background-color: #d9f7ff;
 }
 .top-bar{
   background-color: #f7f7f7;
@@ -38,25 +39,25 @@ body{
 }
 h1{
   font-family: 'Sacramento', cursive;
+  width: 50%;
+  margin: auto;
   font-size: 120px;
   position: absolute;
+  top:15%;
+  left: 25%;
   color: #3f3f44;
-  top: 15%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 .thanks{
+  width: 30%;
+  margin: auto;
+  font-size: 30px;
   position: absolute;
-  top: 32%;
-  left: 50%;
-  font-size: 25px;
-  color: #1b1b2f;
-  transform: translate(-50%, -50%);
+  top: 40%;
+  left: 35%;
 }
 .my-pic{
   border-radius: 100%;
   padding-top: 25px;
-
 }
 h2{
   font-family: 'Permanent Marker', cursive;
@@ -64,7 +65,22 @@ h2{
   color: #222831;
 }
 .me{
-  width: 600px;
+  font-family: 'Roboto', sans-serif;
+  width: 70%;
   margin: auto;
-  font-size: 150%;
+  font-size: 120%;
+}
+.mechanical-1{
+  border-radius: 100%;
+  width: 20%;
+  float: left;
+  margin-left: 50px;
+}
+.me2{
+  font-family: 'Roboto', sans-serif;
+  margin: 5% auto;
+  font-size: 120%;
+  text-align: left;
+  width: 60%;
+  display: inline-block;
 }
