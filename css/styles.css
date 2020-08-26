@@ -20,6 +20,10 @@ hr{
 .top-links{
   font-size: 35px;
   margin-left: 40px;
+  text-decoration: none;
+}
+.top-links:hover{
+  color: #810000;
 }
 .whatsapp{
   float: right;
